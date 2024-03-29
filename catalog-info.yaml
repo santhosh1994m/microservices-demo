@@ -3,6 +3,7 @@ kind: Component
 metadata:
   name: microservices-demo
   annotations:
+    backstage.io/techdocs-ref: value
     github.com/project-slug: santhosh1994m/microservices-demo
 spec:
   type: other
