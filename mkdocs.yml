@@ -4,3 +4,8 @@ plugins:
   - techdocs-core
 nav:
   - Getting Started: index.md
+  - cloudshell-tutorial: cloudshell-tutorial.md
+  - deploystack: deploystack.md
+  - development-guide: development-guide.md
+  - product-requirements: product-requirements.md
+  - purpose: purpose.md
