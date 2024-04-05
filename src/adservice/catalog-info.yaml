@@ -9,3 +9,7 @@ spec:
   type: other
   lifecycle: unknown
   owner: Santhosh
+  providesApis:
+    - petstore
+    - internal/streetlights
+    - hello-world  
