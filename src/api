@@ -1,0 +1,8 @@
+apiVersion: backstage.io/v1alpha1
+kind: Location
+metadata:
+  name: example-apis
+  description: A collection of all Backstage example APIs
+spec:
+  targets:
+    - https://github.com/santhosh1994m/backstage/blob/master/packages/catalog-model/examples/apis/petstore-api.yaml
