@@ -7,5 +7,5 @@ metadata:
     github.com/project-slug: santhosh1994m/microservices-demo
 spec:
   type: other
-  lifecycle: unknown
+  lifecycle: unknow
   owner: Santhosh
